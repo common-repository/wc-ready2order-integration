@@ -1,0 +1,16 @@
+.ready2order-help-text {
+    background: #fff;
+    color: #000;
+    border: 1px solid #ececee;
+    padding: 1.5rem;
+    margin: 1rem 0 0;
+}
+
+ol.ready2order-help-text-list {
+    list-style-type: numbers;
+}
+
+ul.ready2order-help-text-list {
+    list-style-type: square;
+    padding-left: 20px;
+}
